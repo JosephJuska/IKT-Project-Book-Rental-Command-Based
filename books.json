@@ -1,0 +1,372 @@
+[
+    {
+        "id": "1701019281",
+        "sn": 5,
+        "title": "test",
+        "genre": "test",
+        "copies_count": 5,
+        "copies": [
+            {
+                "id": "1701019281_2",
+                "title": "test",
+                "genre": "test"
+            },
+            {
+                "id": "1701019281_3",
+                "title": "test",
+                "genre": "test"
+            },
+            {
+                "id": "1701019281_0",
+                "title": "test",
+                "genre": "test"
+            },
+            {
+                "id": "1701019281_4",
+                "title": "test",
+                "genre": "test"
+            },
+            {
+                "id": "1701019281_1",
+                "title": "test",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701019280",
+        "sn": 5,
+        "title": "test1",
+        "genre": "test",
+        "copies_count": 5,
+        "copies": [
+            {
+                "id": "1701019280_2",
+                "title": "test1",
+                "genre": "test"
+            },
+            {
+                "id": "1701019280_3",
+                "title": "test1",
+                "genre": "test"
+            },
+            {
+                "id": "1701019280_4",
+                "title": "test1",
+                "genre": "test"
+            },
+            {
+                "id": "1701019280_1",
+                "title": "test1",
+                "genre": "test"
+            },
+            {
+                "id": "1701019280_0",
+                "title": "test1",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701093471",
+        "sn": 10,
+        "title": "test2",
+        "genre": "tets",
+        "copies_count": 10,
+        "copies": [
+            {
+                "id": "1701093471_1",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_2",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_3",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_4",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_5",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_6",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_7",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_8",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_9",
+                "title": "test2",
+                "genre": "tets"
+            },
+            {
+                "id": "1701093471_0",
+                "title": "test2",
+                "genre": "tets"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701093482",
+        "sn": 10,
+        "title": "test3",
+        "genre": "test",
+        "copies_count": 10,
+        "copies": [
+            {
+                "id": "1701093482_2",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_3",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_4",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_5",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_6",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_7",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_8",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_9",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_0",
+                "title": "test3",
+                "genre": "test"
+            },
+            {
+                "id": "1701093482_1",
+                "title": "test3",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701093614",
+        "sn": 10,
+        "title": "test6",
+        "genre": "test",
+        "copies_count": 10,
+        "copies": [
+            {
+                "id": "1701093614_2",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_3",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_4",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_5",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_6",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_7",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_8",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_9",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_0",
+                "title": "test6",
+                "genre": "test"
+            },
+            {
+                "id": "1701093614_1",
+                "title": "test6",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701093629",
+        "sn": 10,
+        "title": "test5",
+        "genre": "test",
+        "copies_count": 10,
+        "copies": [
+            {
+                "id": "1701093629_0",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_1",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_2",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_3",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_4",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_5",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_6",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_7",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_8",
+                "title": "test5",
+                "genre": "test"
+            },
+            {
+                "id": "1701093629_9",
+                "title": "test5",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    },
+    {
+        "id": "1701093698",
+        "sn": 10,
+        "title": "test10",
+        "genre": "test",
+        "copies_count": 10,
+        "copies": [
+            {
+                "id": "1701093698_0",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_1",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_2",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_3",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_4",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_5",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_6",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_7",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_8",
+                "title": "test10",
+                "genre": "test"
+            },
+            {
+                "id": "1701093698_9",
+                "title": "test10",
+                "genre": "test"
+            }
+        ],
+        "rentedBy": []
+    }
+]
